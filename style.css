@@ -1,0 +1,60 @@
+body{
+    font-family:Arial, sans-serif ;
+    background-color: burlywood;
+    color: rgb(4, 43, 4);
+    font-size: large;
+    text-align: center;
+}
+
+#my_header{
+    color: rgb(4, 43, 4);
+}
+
+p{
+    color: black;
+    text-align: center;
+}
+
+article{
+    background-color: white;
+}
+
+#i{
+    color: black;
+}
+
+#article-1{
+    background-color: burlywood;
+    text-align: center;
+}
+
+#prof{
+    width: 300;
+    height: auto;
+    border-top-right-radius: 40px;
+    border-bottom-right-radius: 40px;
+}
+
+strong{
+    color: rgb(4, 43, 4);
+}
+
+p{
+    text-align: right;
+}
+
+#about_me{
+    text-align: justify;
+    margin: 50px;
+}
+
+#contact{
+    text-align: right;
+}
+
+#last{
+    text-align: center;
+}
+#me{
+    text-align: center;
+}
